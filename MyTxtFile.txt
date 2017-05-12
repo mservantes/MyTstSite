@@ -8,6 +8,16 @@ My Second Commit...
 Line 3
 Line 4
 
+My 3rd commit from cloned repository:
+Always use the folloiwng stategy
+
+Open file make changes
+git add -A
+git commit -m "Comment"
+
+git pull origin master
+git push -u origin master 
+
 My 4th Commit..
 Used git pull origin master to get 3rd Update
 Used git push origin master to submit these three lines
