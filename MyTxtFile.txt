@@ -7,3 +7,13 @@ Line 2
 My Second Commit...
 Line 3
 Line 4
+
+My 3rd commit from cloned repository:
+Always use the folloiwng stategy
+
+Open file make changes
+git add -A
+git commit -m "Comment"
+
+git pull origin master
+git push -u origin master 
