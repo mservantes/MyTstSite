@@ -7,3 +7,7 @@ Line 2
 My Second Commit...
 Line 3
 Line 4
+
+My 4th Commit..
+Used git pull origin master to get 3rd Update
+Used git push origin master to submit these three lines
